@@ -3,7 +3,6 @@
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/bin/Debug/netcoreapp3.1/CSharpPractise.runtimeconfig.dev.json
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/bin/Debug/netcoreapp3.1/CSharpPractise.dll
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/bin/Debug/netcoreapp3.1/CSharpPractise.pdb
-/Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/obj/Debug/netcoreapp3.1/CSharpPractise.csprojAssemblyReference.cache
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/obj/Debug/netcoreapp3.1/CSharpPractise.AssemblyInfoInputs.cache
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/obj/Debug/netcoreapp3.1/CSharpPractise.AssemblyInfo.cs
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/obj/Debug/netcoreapp3.1/CSharpPractise.csproj.CoreCompileInputs.cache
