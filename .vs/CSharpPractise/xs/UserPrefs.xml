@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{78C4B552-9CAF-423F-9EE3-0BA37F2E7B78}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSharpPractise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpPractise/Program.cs">
+    <Files>
+      <File FileName="CSharpPractise/Program.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpPractise" expanded="True">
+            <Node name="CSharpPractise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../c-sharp-katas/Katas/KatasProject/Katas.cs" line="14" column="21" endLine="14" endColumn="24" offsetX="-1" offsetY="-1" expression="Katas.Models.Animal" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
