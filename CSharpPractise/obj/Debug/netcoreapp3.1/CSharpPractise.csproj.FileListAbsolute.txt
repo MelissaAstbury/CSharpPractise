@@ -9,3 +9,4 @@
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/obj/Debug/netcoreapp3.1/CSharpPractise.dll
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/obj/Debug/netcoreapp3.1/CSharpPractise.pdb
 /Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/obj/Debug/netcoreapp3.1/CSharpPractise.genruntimeconfig.cache
+/Users/melissaastbury/Documents/Study/CSharp/CSharpPractise/CSharpPractise/obj/Debug/netcoreapp3.1/CSharpPractise.csprojAssemblyReference.cache

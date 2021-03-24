@@ -16,6 +16,19 @@ namespace CSharpPractise
             Console.WriteLine("Her bestfriend is also called Holly");
             Console.WriteLine("They are both 10 years old");
 
+            //Console.ReadLine();
+
+
+
+
+            // Get information from a user
+
+            Console.Write("Enter you name: ");
+            string name = Console.ReadLine();
+            Console.Write("Enter your DOB: ");
+            string age = Console.ReadLine();
+            Console.WriteLine($"Hello {name}. You are {age} years old");
+
             Console.ReadLine();
         }
     }

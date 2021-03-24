@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{78C4B552-9CAF-423F-9EE3-0BA37F2E7B78}|Default">
-  <MonoDevelop.Ide.ItemProperties.CSharpPractise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CSharpPractise PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CSharpPractise/Program.cs">
     <Files>
-      <File FileName="CSharpPractise/Program.cs" Line="10" Column="1" />
+      <File FileName="CSharpPractise/Program.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
